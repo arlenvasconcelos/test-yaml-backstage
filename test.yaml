@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: Test
+  name: dir-arq-estr-tech
   description: Test Description
 spec:
   type: department
